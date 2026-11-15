@@ -1,15 +1,40 @@
-![PROVEN](https://img.shields.io/badge/PROVEN-8%2F8-brightgreen)
-
-
 <p align="center"><img src="assets/logo.svg" alt="logo" width="400"></p>
 
-<p align="center">
-  <img src="docs/logo.png" alt="apumia-credit-demo" width="200"/>
-</p>
+![PROVEN](https://img.shields.io/badge/PROVEN-8%2F8-brightgreen)
 
-<h1 align="center">apumia-credit-demo</h1>
+# Apumia Credit
 
-<p align="center"><b>Interactive demo: apumia_credit — WACC, Merton-KMV, IFRS 13 Level 3, ECB 90d/UTP. PROVEN 8/8.</b></p>
+**8/8 инвариантов. Кредитный скоринг с проверяемым доказательством.**
 
-## Overview
-Public demo for APUM AI Fund. Flagship: [apumia_credit](https://github.com/apumiaaifund/apumia_credit).
+---
+
+## За 30 секунд
+
+**Что это:** Кредитный скоринг с проверяемым доказательством. 8 инвариантов, каждый проверяется независимо.
+
+**Кому:** Банки и финтехи — скоринг с аудитом.
+
+**Почему сейчас:** Регулятор спрашивает «как модель решила». Apumia Credit даёт 8 инвариантов, которые регулятор проверяет сам.
+
+**Что доказано:** 8/8 инвариантов PASS.
+
+**Чего не доказано (честно):** В работе.
+
+---
+
+## Оффер
+
+По запросу.
+
+**Следующий шаг:** Покажу 8 инвариантов — 20 минут.
+
+---
+
+## GitHub
+
+- **Private code:** apumiaaifund/apumia_credit
+- **Public demo:** apumiaaifund/apumia-credit-demo
+
+## License
+
+MIT
