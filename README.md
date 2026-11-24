@@ -1,60 +1,16 @@
-<p align="center"><img src="assets/logo.svg" alt="logo" width="400"></p>
+<p align="center"><img src="assets/logo.svg" alt="APUMIA Credit" width="360"></p>
 
 ![PROVEN](https://img.shields.io/badge/PROVEN-8%2F8-brightgreen)
 
-# Apumia Credit
+# APUMIA Credit & IFRS 13 Audit Core
 
-**8/8 инвариантов. Кредитный скоринг с проверяемым доказательством.**
+**Deterministic Zero-Float credit scoring, WACC, Merton-KMV, IFRS 13 Level 3, and ECB 90d/UTP verification suite with 8/8 PROVEN regulatory invariants and native Rust accounting core.**
 
----
+## Key Capabilities
+- **8/8 Independently Verifiable Invariants:** Cryptographically reproducible credit decisions (`apumia_prove.py`) built for institutional audits and regulatory review.
+- **Native Rust Accounting & Ratio Kernel:** NaN-safe, deterministic financial statement and journal extraction module.
+- **MCP Server & REST API Ready:** Drop-in Model Context Protocol (`mcp_server.py`) and HTTP endpoints for autonomous financial agents.
 
-## За 30 секунд
-
-**Что это:** Кредитный скоринг с проверяемым доказательством. 8 инвариантов, каждый проверяется независимо.
-
-**Кому:** Банки и финтехи — скоринг с аудитом.
-
-**Почему сейчас:** Регулятор спрашивает «как модель решила». Apumia Credit даёт 8 инвариантов, которые регулятор проверяет сам.
-
-**Что доказано:** 8/8 инвариантов PASS.
-
-**Чего не доказано (честно):** В работе.
-
----
-
-## Оффер
-
-По запросу.
-
-**Следующий шаг:** Покажу 8 инвариантов — 20 минут.
-
----
-
-## GitHub
-
-- **Private code:** apumiaaifund/apumia_credit
-- **Public demo:** apumiaaifund/apumia-credit-demo
-
-## License
-
-MIT
-
-
----
-
-### 🚀 Что мы можем реализовать для партнёров на основе этого решения (Ниши и сценарии)
-
-- **Банки, МФО и B2B-факторинг:** детерминированный контроль лимитов и объяснимость решений поверх скоринговых ML-моделей.
-- **Регуляторная отчётность:** готовый крипто-след по каждому одобренному или отклонённому кредитному кейсу.
-
-> **Формат сотрудничества:** запуск пилотного стенда (PoC) за 2–4 недели, лицензирование модуля (On-Premise) или кастомная интеграция под стек заказчика.  
-> 📬 **Запросить демонстрацию и расчёт пилота:** [apumiaaifund@gmail.com](mailto:apumiaaifund@gmail.com)
-
----
-
-### 🛡️ Верификация качества и безопасности (Apumia DevSecOps Gate)
-
-> **Статус:** `VERIFIED & PROVEN` • **Дата аудита:** `16.11.2026`  
-> **Контроль архитектуры (`Apumia Blueprint`):** `CLEAN` (`0` циклических зависимостей, контроль сложности McCabe)  
-> **Анализ безопасности (`Bandit / Zero-Trust`):** `0` критических уязвимостей  
-> **Протокол достоверности (`Apumia Hub`):** `_synthetic: false` | `preservation: 100.0%` | `verified: true`
+## Get the Commercial Source Suite ($249)
+Includes full Python credit engine source code, native Rust accounting verification core, MCP server, test suites, SBOM, and commercial license.
+Contact **apumiaaifund@gmail.com** or visit **https://github.io**.
