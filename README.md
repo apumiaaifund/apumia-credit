@@ -13,4 +13,4 @@
 
 ## Get the Commercial Source Suite ($249)
 Includes full Python credit engine source code, native Rust accounting verification core, MCP server, test suites, SBOM, and commercial license.
-Contact **apumiaaifund@gmail.com** or visit **https://github.io**.
+Get instant access via Stripe, Apple Pay, or PayPal: **[Buy APUMIA Credit & IFRS 13 Rust Core ($249) ↗](https://app.lava.top/products/8ba44686-a1b5-49c0-86b8-8a227f37e7cb)**
